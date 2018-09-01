@@ -1,0 +1,8 @@
+<!--pages/chat/index.wxml-->
+<view class="container">
+
+<view class="WxComment">
+  <WxComment tipOne="sincerely " tipTwo="by lovehanyang&kanxv." submitBtnText="回复" articleID="{{article_id}}" contentLen='1' theme="light"></WxComment>
+</view>
+
+</view>
